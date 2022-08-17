@@ -152,7 +152,7 @@ class _RegisterState extends State<Register> {
                               Padding(
                                 padding: const EdgeInsets.symmetric(horizontal: 20),
                                 child: FlatButton(
-                                  height: 50,,
+                                  height: 50,
                                   shape: RoundedRectangleBorder(
                                     borderRadius: BorderRadius.circular(12.0),
                                   ),
